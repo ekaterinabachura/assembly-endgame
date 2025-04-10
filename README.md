@@ -1,15 +1,6 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
 # Assembly: Endgame
 
 **React-based word-guessing game to save the programming world from Assembly**
-
-Report Bug - Request Feature
 
 ---
 
@@ -47,3 +38,18 @@ Key mechanics:
 - Responsive keyboard with state tracking  
 
 ---
+
+## Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
+
+---
+
+## App Screenshots
+![Empty game start](/images/game-empty-start.png)
+![Game started](/images/game-started.png)
+![Game completed (win)](/images/game-completed-win.png)
+![Game completed (lost)](/images/game-completed-lost.png)
