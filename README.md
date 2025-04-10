@@ -14,10 +14,10 @@ Report Bug - Request Feature
 ---
 
 ## Table of Contents
-1. About The Project  
-   Built With  
-2. How to Play  
-3. Getting Started  
+1. [About The Project](#about-the-project)  
+   [Built With](#built-with)  
+2. [How to Play](#how-to-play)  
+3. [Getting Started](#getting-started)  
 
 ---
 
