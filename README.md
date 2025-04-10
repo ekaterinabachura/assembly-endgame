@@ -8,7 +8,8 @@
 1. [About The Project](#about-the-project)  
    [Built With](#built-with)  
 2. [How to Play](#how-to-play)  
-3. [Getting Started](#getting-started)  
+3. [Getting Started](#getting-started)
+4. [App Screenshots](#app-screenshots)  
 
 ---
 
